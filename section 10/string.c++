@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    char *s;
+    char s[100];
     cout<<"ENter the string:- ";
     cin >> s;
     cout << strlen(s)<<endl;
