@@ -2,11 +2,12 @@
   "CPP Boilerplate": {
     "prefix": "cpp",
     "body": [
-      "#include <iostream>",
+      "#include <bits/stdc++.h>",
       "using namespace std;",
+      "#define int long long",
       "",
-      "int main() {",
-      "    ",
+      "signed main() {",
+      "  $  ",
       "    return 0;",
       "}"
     ],
