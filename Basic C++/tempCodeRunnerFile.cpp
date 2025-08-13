@@ -1,2 +1,1 @@
-
-		else if (a==1){
+    cout << gcd ;
